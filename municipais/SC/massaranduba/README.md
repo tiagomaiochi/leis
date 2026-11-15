@@ -7,7 +7,7 @@ Coleção temática de normas municipais relevantes para arquitetura, engenharia
 - [Índice geral e situação documental](INDICE-ARQUILEGIS.md)
 - [Plano diretor e planejamento urbano](planejamento-urbano/README.md)
 - [Parcelamento do solo](parcelamento-do-solo/README.md)
-- [Edificações e aprovação de projetos](edificacoes/README.md)
+- [Código de Obras](codigo-de-obras/README.md)
 - [Sistema viário e mobilidade](sistema-viario/README.md)
 - [Posturas municipais](posturas/README.md)
 - [Resíduos e saneamento](residuos-saneamento/README.md)
@@ -17,7 +17,7 @@ Coleção temática de normas municipais relevantes para arquitetura, engenharia
 
 Os arquivos temáticos são fichas de referência e apontam para publicações oficiais. Eles não substituem o texto legal integral nem constituem consolidação. O responsável pelo projeto informou que as leis-base permanecem vigentes e que atos mais novos revogam ou alteram dispositivos específicos; conferir cada cadeia normativa antes de aplicar um artigo.
 
-Os textos integrais ainda não foram convertidos para Markdown nesta coleção. Quando incluídos, devem preservar a redação do documento oficial e trazer a URL da fonte e observação sobre qualidade da extração.
+A LC nº 181/2022 está transcrita em Markdown na pasta `codigo-de-obras/`, com seus seis anexos preservados como imagens e link para o PDF oficial. As demais normas ainda precisam ser obtidas e transcritas, preservando a redação oficial e registrando a fonte e a qualidade da extração.
 
 ## Fontes oficiais
 
