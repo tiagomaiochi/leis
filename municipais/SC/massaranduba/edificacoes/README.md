@@ -4,7 +4,7 @@
 
 - **Lei Complementar nº 181/2022 — Código de Obras do Município de Massaranduba/SC.** O PDF oficial do texto integral está disponível no Portal do Cidadão da Prefeitura. A lei está datada de 13 de dezembro de 2022; a data da publicação no diário oficial ainda não foi confirmada.
 
-## Documentos propostos
+## Documentos incluídos
 
 - [`LC-181-2022-Codigo-de-Obras.pdf`](LC-181-2022-Codigo-de-Obras.pdf) — cópia do PDF disponibilizado pela Prefeitura.
 - [`LC-181-2022-Codigo-de-Obras.md`](LC-181-2022-Codigo-de-Obras.md) — transcrição do texto dos arts. 1º a 365; os seis anexos são preservados como imagens das páginas originais para manter suas tabelas e o croqui.
